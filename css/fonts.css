@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Jikharev";
+  src: url("../fonts/DancingScript-Bold.ttf");
+  font-weight: 700;
+  font-style: italic;
+ }
+
+ @font-face {
+  font-family: "Comfortaa-Bold";
+  src: url("../fonts/Comfortaa-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
+ }
+
+  @font-face {
+  font-family: "Comfortaa-Regular";
+  src: url("../fonts/Comfortaa-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+ }
